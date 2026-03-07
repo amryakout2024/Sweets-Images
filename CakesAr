@@ -1,6 +1,6 @@
 [{"ID":1,
 "Name":"كيم",
-"Image":"dispacetochocolatelarge.jpg",
+"Image":"https://raw.githubusercontent.com/amryakout2024/Sweets-Images/main/dispacetochocolatelarge.jpg",
 "Price":100,
 "OldPrice":120,
 "Description":"des"},
@@ -8,12 +8,12 @@
 "Name":"اغاغ",
 "Image":"com",
 "Price":100,
-"OldPrice":120,
+"OldPrice":,
 "Description":"des"},
 {"ID":3,
 "Name":"ثق5غ",
 "Image":"com",
 "Price":100,
-"OldPrice":120,
+"OldPrice":,
 "Description":"des"}
 ]
