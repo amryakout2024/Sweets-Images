@@ -1,4 +1,5 @@
-[{"ID":1,
+{"Cakes":
+["ID":1,
 "Name":"ريد فيلفيت",
 "Image":"https://raw.githubusercontent.com/amryakout2024/Sweets-Images/main/redvelvet.png",
 "Price":"80",
@@ -166,4 +167,10 @@
 "Price":"400",
 "NewPrice":"",
 "Description":"بسيمه بجوز الهند والمكسرات والسمن البلدي"}
+],
+"Governorates":
+[
+{"Id":1,"Name":"الغربية"},
+{"Id":1,"Name":"الدقهلية"},
+{"Id":1,"Name":"القاهرة"}
 ]
