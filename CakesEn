@@ -169,7 +169,8 @@
 "NewPrice":"",
 "Description":"Basima with coconut,nuts and natural ghee."}],
 "Governorates":[
-{"Id":1,"Name":"Gharbia"},
-{"Id":1,"Name":"Dakahlia"},
-{"Id":1,"Name":"Cairo"}]
+{"Id":1,"Name":"Non egyptian"},
+{"Id":2,"Name":"Gharbia"},
+{"Id":3,"Name":"Dakahlia"},
+{"Id":4,"Name":"Cairo"}]
 }
