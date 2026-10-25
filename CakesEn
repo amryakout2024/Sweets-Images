@@ -186,6 +186,12 @@
 "Price":"13",
 "NewPrice":"",
 "Description":"Layer of vanilla biscuits topped layer of cream cheese covered with strawberry sauce."},
+{"ID":32,
+"Name":"Cheesecake Notellamini",
+"Image":"https://raw.githubusercontent.com/amryakout2024/Sweets-Images/main/cheesecakenotellamini.png",
+"Price":"13",
+"NewPrice":"",
+"Description":"Layer of choclate biscuits topped layer of cream cheese covered with notella."},
 "Governorates":[
 {"Id":1,"Name":"Non egyptian"},
 {"Id":2,"Name":"Gharbia"},
